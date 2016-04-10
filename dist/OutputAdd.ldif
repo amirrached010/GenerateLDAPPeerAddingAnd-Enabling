@@ -1,0 +1,2592 @@
+dn: nodeId=ptsd-0.module-1.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-1.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-1.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-2.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-2.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-2.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-3.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-3.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-3.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-4.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-4.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-4.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-5.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-5.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-5.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-6.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-6.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-6.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-7.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-7.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-7.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-8.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-8.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-8.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-9.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-9.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-9.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-1.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-1.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-1.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-2.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-2.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-2.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-3.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-3.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-3.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-4.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-4.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-4.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-5.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-5.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-5.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-6.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-6.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-6.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-7.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-7.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-7.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-8.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-8.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-8.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-9.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-9.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-9.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-1.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-1.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-1.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-2.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-2.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-2.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-3.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-3.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-3.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-4.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-4.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-4.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-5.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-5.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-5.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-6.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-6.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-6.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-7.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-7.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-7.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-8.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-8.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-8.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-9.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-9.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-9.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-1.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-1.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-1.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-2.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-2.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-2.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-3.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-3.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-3.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-4.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-4.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-4.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-5.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-5.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-5.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-6.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-6.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-6.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-7.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-7.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-7.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-8.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-8.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-8.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-9.PTS-4-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.8
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-9.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-9.PTS-4-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-1.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-1.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-1.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-2.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-2.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-2.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-3.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-3.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-3.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-4.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-4.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-4.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-5.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-5.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-5.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-6.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-6.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-6.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-7.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-7.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-7.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-8.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-8.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-8.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-0.module-9.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-0.module-9.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-0.module-9.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-1.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-1.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-1.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-2.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-2.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-2.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-3.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-3.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-3.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-4.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-4.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-4.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-5.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-5.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-5.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-6.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-6.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-6.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-7.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-7.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-7.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-8.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-8.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-8.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-1.module-9.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-1.module-9.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-1.module-9.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-1.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-1.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-1.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-2.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-2.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-2.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-3.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-3.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-3.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-4.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-4.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-4.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-5.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-5.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-5.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-6.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-6.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-6.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-7.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-7.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-7.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-8.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-8.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-8.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-2.module-9.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-2.module-9.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-2.module-9.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-1.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-1.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-1.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-2.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-2.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-2.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-3.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-3.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-3.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-4.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-4.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-4.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-5.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-5.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-5.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-6.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-6.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-6.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-7.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-7.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-7.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-8.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-8.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-8.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+
+dn: nodeId=ptsd-3.module-9.PTS-3-TM-new.etisalat.eg#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:10.94.37.7
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=ptsd-3.module-9.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=ptsd-3.module-9.PTS-3-TM-new.etisalat.eg:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+
+

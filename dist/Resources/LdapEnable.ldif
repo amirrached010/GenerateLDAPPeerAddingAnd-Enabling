@@ -1,0 +1,6 @@
+dn: connId=DCC#<nodeid>#conn1,nodeId=<nodeId>#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+changetype: Modify
+add: enabled
+enabled: TRUE
+
+

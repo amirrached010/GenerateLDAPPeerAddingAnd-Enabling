@@ -1,0 +1,3 @@
+nodeId=<nodeid>#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+
+entryId=<nodeid>:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala

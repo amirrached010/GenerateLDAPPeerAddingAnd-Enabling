@@ -1,0 +1,32 @@
+dn: nodeId=<nodeid>#DCC,peerNodeContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-NeighbourNode
+enabled: TRUE
+groupId: 100
+initiateConnection: FALSE
+ipAddressesList: 0:<IP>
+ownerId: 100
+permissions: 9
+portNr: 3868
+sctpHandlerLogLevel: DEFAULT
+shareTree: applicationName=DIA,nodeName=jambala
+traceSctpHandler: DEFAULT
+transportLayerType: 1
+
+
+dn: entryId=<nodeid>:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-Drt
+groupId: 0
+ownerId: 0
+permissions: 15
+shareTree: applicationName=DIA,nodeName=jambala
+
+
+dn: requestedApp=0:4,authReqContainerName=authReqContainerName,entryId=<nodeid>:DCC:TRUE,routingContainerId=DCC,stackContainerId=DCC,applicationName=DIA,nodeName=jambala
+objectClass: DIA-CFG-AppRouting
+action: 0
+autoFailback: TRUE
+groupId: 0
+ownerId: 0
+permissions: 15
+requestedApp: 0:4
+shareTree: applicationName=DIA,nodeName=jambala
